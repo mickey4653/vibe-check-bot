@@ -85,3 +85,8 @@ Example MongoDB queries are available in `playground-1.mongodb.js`:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+
+## Author
+
+Michael I. Adeniyi
